@@ -1,0 +1,3 @@
+Flask==0.10
+giphypop==0.1
+gunicorn==0.14.2
